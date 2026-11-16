@@ -1,5 +1,7 @@
 # useSend on Railway
 
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/usesend-1?utm_medium=integration&utm_source=button&utm_campaign=usesend)
+
 A one-click Railway template for [useSend](https://github.com/usesend/useSend), the open-source email platform (an alternative to Resend, SendGrid and Postmark) that sends through your own Amazon SES account.
 
 ## What it deploys
